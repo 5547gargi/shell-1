@@ -1,5 +1,5 @@
  id  firstname  lastname  email  profession  salary 
- 100  Fidelia  Vharat  Fidelia.Vharat@yopmail.com  doctor  852.38 
+ 100  Fidelia  Vharat  Fidelia.Vharat@yopmail.com  doctor  852.88 
  101  Dolli  Holtz  Dolli.Holtz@yopmail.com  developer  498.82 
  102  Maridel  Sasnett  Maridel.Sasnett@yopmail.com  worker  99.35 
  103  Merry  Oscar  Merry.Oscar@yopmail.com  doctor  986.95 
